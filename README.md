@@ -1,6 +1,7 @@
 This project is based on the "diamonds" dataset with 50,000+ diamonds and investigates the relationship between a diamond's physical attributes and its market price.
 
 Read the full research paper here: [Hypothesis Testing and Statistical Modelling on Diamonds.pdf](https://github.com/LucaCallus/Diamond-Price-Statistical-Analysis/blob/e02aa6b3c49f43758c37c0d1ad4e8db19e919a8a/Hypothesis%20Testing%20and%20Statistical%20Modelling%20on%20Diamonds.pdf)
+
 Grade: 98/100
 
 ## Key Research Phases
@@ -19,6 +20,7 @@ Grade: 98/100
 * **ANCOVA:** Performed Analysis of Covariance to understand the interaction between categorical attributes and continuous variables (Carat)
 * **Model Validation:** Checked for multicollinearity (VIF), homoscedasticity, and residual normality among others
 
+
 <table>
   <tr>
     <td><img src="Media/histogram%20of%20price.png" alt="Histogram of Price" width="100%"></td>
@@ -29,6 +31,7 @@ Grade: 98/100
     <td><img src="Media/pie%20chart%20of%20cut.png" alt="Pie Chart" width="100%"></td>
   </tr>
 </table>
+
 
 ## Tech Stack
 * **Language:** R
