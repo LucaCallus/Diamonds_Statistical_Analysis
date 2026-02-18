@@ -38,12 +38,13 @@ Grade: **98/100** _(more details at the bottom)_
 ## Tech Stack
 * **Language:** R
 * **Libraries:** ggplot2, FSA, Hmisc, mctest, klaR, regclass, MASS, lmtest, olsrr
-* **Documentation:** Microsoft Word
+* **Documentation:** Google Docs
 
 ## Repository Structure
 * [Hypothesis Testing and Statistical Modelling on Diamonds.pdf](https://github.com/LucaCallus/Diamond-Price-Statistical-Analysis/blob/e02aa6b3c49f43758c37c0d1ad4e8db19e919a8a/Hypothesis%20Testing%20and%20Statistical%20Modelling%20on%20Diamonds.pdf)
-* `Scripts/`: Raw code used for data processing and model generation
 * `Data/`: The diamonds dataset used for the study
+* `Media/`: Images used in readme
+* `Scripts/`: Raw code used for data processing and model generation
 
 ## Academic Context
 * **Institution:** University of Malta
