@@ -1,4 +1,4 @@
-# Diamond Prices Statistical Analysis 💎📊
+# Diamonds Statistical Analysis 💎📊
 
 This project is based on the '_diamonds_' dataset with **50,000+ diamonds** and investigates the relationship between a diamond's **physical attributes** and its **market price**.
 
